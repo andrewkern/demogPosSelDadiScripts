@@ -6,13 +6,13 @@ using dadi. In order to run these scripts after checking out this repository
 you will have to install the following packages on your machine (which must be
 running a Unix-like operating system):
 
-1) python
-2) scipy
-3) numpy
-4) dadi (version 1.6.3)
-5) pyOpt
-6) MPI
-and 7) mpi4py
+1. python
+2. scipy
+3. numpy
+4. dadi (version 1.6.3)
+5. pyOpt
+6. MPI
+7. mpi4py
 
 You then have to run the following command and place it in your ~/.profile file
 before running the scripts (but without the < and > characters):
