@@ -11,7 +11,8 @@ running a Unix-like operating system):
 3) numpy
 4) dadi (version 1.6.3)
 5) pyOpt
-6) MPI and mpi4py
+6) MPI
+and 7) mpi4py
 
 You then have to run the following command and place it in your ~/.profile file
 before running the scripts (but without the < and > characters):
